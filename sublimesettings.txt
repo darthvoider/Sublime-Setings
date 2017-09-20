@@ -1,0 +1,37 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_close_tags": true,
+	"auto_complete": true,
+	"auto_indent": true,
+	"auto_match_enabled": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "LF",
+	"detect_indentation": true,
+	"draw_indent_guides": "stackGuide",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"enable_tab_scrolling": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 13,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets_angle": true,
+	"match_selection": true,
+	"match_tags": true,
+	"overlay_scroll_bars": "enabled",
+	"remember_open_files": true,
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+	"word_wrap": true
+}
